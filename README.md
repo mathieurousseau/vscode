@@ -11,3 +11,7 @@
     "command": "workbench.action.focusActiveEditorGroup",
     "when": "terminalFocus"
 }
+
+
+## Markdown preview
+⇧⌘V (shift apple V)
